@@ -1,4 +1,4 @@
-Marko	Ilmakiv‰‰ri
+Noel N.	Ilmakiv√§√§ri
 Date	Series	Shot	Hit	X ring	Sector	On	Total	Int.(s)			Trigger			COG		Fine %			Rough %			Hold time (s)
 						target	time 		dev X	dev Y	ATV	TIRE	RTV	Hit	Sector	Target	COG	Hit	Target	COG	Hit	Target	COG	Hit
 251004	1	1	10.9	1	5	9.9	9.9	0.0	0.37	0.22	0.17	3	0.54	10.7	12	100	98	98	100	98	98	6.09	6.30	6.08
@@ -41,3 +41,4 @@ Date	Series	Shot	Hit	X ring	Sector	On	Total	Int.(s)			Trigger			COG		Fine %			Ro
 251004	4	8	10.7	1	12	12.5	12.5	35.8	0.19	0.39	0.16	3	0.50	10.5	10	91	98	98	100	98	98	9.30	9.49	9.48
 251004	4	9	10.7	1	12	10.5	10.5	33.4	0.41	0.23	0.16	3	0.56	10.6	11	91	98	97	100	98	98	8.22	8.23	8.23
 251004	4	10	10.3	1	1	11.9	11.9	36.7	0.30	0.31	0.16	3	0.64	10.2	1	74	98	98	100	98	98	5.31	6.15	6.12
+
